@@ -1,9 +1,5 @@
-Projekti nimi: Ussi mäng
+Ussimäng Pythonis.
 
-Kirjeldus:
-Lihtne ussimäng Pythonis.
-
-Juhtimine:
 W - üles
 A - vasakule
 S - alla
